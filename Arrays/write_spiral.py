@@ -22,6 +22,6 @@ def write_spiral( arr: List[int] ):
     print("After", arr)
 
 
-num = 3
+num = 2
 ret = write_spiral( [ [0 for i in range(num)] for j in range(num)] )
 
